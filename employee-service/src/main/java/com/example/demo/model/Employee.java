@@ -12,7 +12,6 @@ import lombok.ToString;
 @Getter
 @ToString
 public class Employee {
-	private String employeeId;
 	private String firstName;
 	private String lastName;
 	private String email;
